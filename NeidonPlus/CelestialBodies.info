@@ -1,0 +1,98 @@
+Nito
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Nito
+	 base prestige = 10100
+  }
+}
+
+Tito
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Tito
+	 base prestige = 10200
+  }
+}
+
+Gryspar
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Gryspar
+	 base prestige = 10300
+  }
+}
+
+Hargaladh
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Hargaladh
+	 base prestige = 10400
+  }
+}
+
+Chymere
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Chymere
+	 base prestige = 10500
+  }
+}
+
+Nyla
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Nyla
+	 base prestige = 10600
+  }
+}
+
+Psei
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = Psei
+	 base prestige = 10700
+  }
+}
+
+I1-Gawyn
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = I1-Gawyn
+	 base prestige = 10901
+  }
+}
+
+O3-Laman
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/NeidonPlus
+     ribbon group = O3-Laman
+	 base prestige = 10913
+  }
+}

@@ -1,0 +1,87 @@
+Hock
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Hock
+	 base prestige = 9100
+  }
+}
+
+Picna
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Picna
+	 base prestige = 9200
+  }
+}
+
+Dathil
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Dathil
+	 base prestige = 9300
+  }
+}
+
+Biscotti
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Biscotti
+	 base prestige = 9400
+  }
+}
+
+Lyxis
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Lyxis
+	 base prestige = 9500
+  }
+}
+
+Pab
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Pab
+	 base prestige = 9991
+  }
+}
+
+Pymm
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Pymm
+	 base prestige = 9992
+  }
+}
+
+Halas
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = OPXFinalFrontier/UrlumPlus
+     ribbon group = Halas
+	 base prestige = 9993
+  }
+}
