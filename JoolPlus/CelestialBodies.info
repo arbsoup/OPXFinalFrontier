@@ -1,131 +1,131 @@
 Meto
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Meto
-	 base prestige = 6100
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Meto
+		base prestige = 6100
+	}
 }
 
 Alnes
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Alnes
-	 base prestige = 6200
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Alnes
+		base prestige = 6200
+	}
 }
 
 Klip
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Klip
-	 base prestige = 6300
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Klip
+		base prestige = 6300
+	}
 }
 
 I1-Rator
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = I1-Rator
-	 base prestige = 6901
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = I1-Rator
+		base prestige = 6901
+	}
 }
 
 P1-Jimel
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = P1-Jimel
-	 base prestige = 6911
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = P1-Jimel
+		base prestige = 6911
+	}
 }
 
 P2-Colwin
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = P2-Colwin
-	 base prestige = 6912
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = P2-Colwin
+		base prestige = 6912
+	}
 }
 
 P3-Diem
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = P3-Diem
-	 base prestige = 6913
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = P3-Diem
+		base prestige = 6913
+	}
 }
 
 P4-Vlad
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = P4-Vlad
-	 base prestige = 6914
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = P4-Vlad
+		base prestige = 6914
+	}
 }
 
 Palloocus
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Palloocus
-	 base prestige = 6991
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Palloocus
+		base prestige = 6991
+	}
 }
 
 Palloomus
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Palloomus
-	 base prestige = 6992
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Palloomus
+		base prestige = 6992
+	}
 }
 
 Euribanne
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Euribanne
-	 base prestige = 6993
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Euribanne
+		base prestige = 6993
+	}
 }
 
 Eurbon
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/JoolPlus
-     ribbon group = Eurbon
-	 base prestige = 6994
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/JoolPlus
+		ribbon group = Eurbon
+		base prestige = 6994
+	}
 }

@@ -1,98 +1,98 @@
 Vizak
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = Vizak
-	 base prestige = 8100
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = Vizak
+		base prestige = 8100
+	}
 }
 
 Ryla
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = Ryla
-	 base prestige = 8200
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = Ryla
+		base prestige = 8200
+	}
 }
 
 Masmar
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = Masmar
-	 base prestige = 8300
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = Masmar
+		base prestige = 8300
+	}
 }
 
 Encethys
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = Encethys
-	 base prestige = 8400
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = Encethys
+		base prestige = 8400
+	}
 }
 
 Hypo
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = Hypo
-	 base prestige = 8500
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = Hypo
+		base prestige = 8500
+	}
 }
 
 Phabus
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = Phabus
-	 base prestige = 8600
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = Phabus
+		base prestige = 8600
+	}
 }
 
 I3-Egin
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = I3-Egin
-	 base prestige = 8903
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = I3-Egin
+		base prestige = 8903
+	}
 }
 
 I4-Palar
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = I4-Palar
-	 base prestige = 8904
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = I4-Palar
+		base prestige = 8904
+	}
 }
 
 I5-Seri
 {
-  type = moon
-  FinalFrontier
-  {
-     ribbon path = OPXFinalFrontier/SarnusPlus
-     ribbon group = I5-Seri
-	 base prestige = 8905
-  }
+	type = moon
+	FinalFrontier
+	{
+		ribbon path = OPXFinalFrontier/SarnusPlus
+		ribbon group = I5-Seri
+		base prestige = 8905
+	}
 }
