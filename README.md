@@ -6,7 +6,7 @@ Contains a set of Final Frontier ribbons for the Outer Planets Expansion mod ser
 
 How to Use:
 - Make sure you have Nereid/FinalFrontier installed already.
-- Place OPXFinalFrontier into GameData.
+- Place OPXFinalFrontierRibbons into GameData.
 - You can remove some of the subdirectories inside it if you aren't using some of the OPX mods, but it's not necessary to.
 
 Caution:
